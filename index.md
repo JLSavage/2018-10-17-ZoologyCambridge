@@ -300,7 +300,7 @@ and our administrator may contact you if we need any extra information.</h4>
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
-<% comment %> Not using Bash
+{% comment %}
 	<div id="shell"> {% comment %} Start of 'shell' section. {% endcomment %}
 	  <h3>The Bash Shell</h3>
 
